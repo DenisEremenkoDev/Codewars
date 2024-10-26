@@ -26,3 +26,4 @@ function combat(health, damage) {
 }
 combat(100, 30)
 
+// return health < damage ? 0 : "Health cannot go below 0"
